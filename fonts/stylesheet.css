@@ -1,0 +1,84 @@
+@font-face {
+    font-family: 'Atomic Alice';
+    src: url('AtomicAlice-SemiBold.eot');
+    src: local('Atomic Alice Semi Bold'), local('AtomicAlice-SemiBold'),
+        url('AtomicAlice-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('AtomicAlice-SemiBold.woff2') format('woff2'),
+        url('AtomicAlice-SemiBold.woff') format('woff'),
+        url('AtomicAlice-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Atomic Alice';
+    src: url('AtomicAlice-Bold.eot');
+    src: local('Atomic Alice Bold'), local('AtomicAlice-Bold'),
+        url('AtomicAlice-Bold.eot?#iefix') format('embedded-opentype'),
+        url('AtomicAlice-Bold.woff2') format('woff2'),
+        url('AtomicAlice-Bold.woff') format('woff'),
+        url('AtomicAlice-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Atomic Alice';
+    src: url('AtomicAlice-Medium.eot');
+    src: local('Atomic Alice Medium'), local('AtomicAlice-Medium'),
+        url('AtomicAlice-Medium.eot?#iefix') format('embedded-opentype'),
+        url('AtomicAlice-Medium.woff2') format('woff2'),
+        url('AtomicAlice-Medium.woff') format('woff'),
+        url('AtomicAlice-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Atomic Alice';
+    src: url('AtomicAlice-ExtraBold.eot');
+    src: local('Atomic Alice Extra Bold'), local('AtomicAlice-ExtraBold'),
+        url('AtomicAlice-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('AtomicAlice-ExtraBold.woff2') format('woff2'),
+        url('AtomicAlice-ExtraBold.woff') format('woff'),
+        url('AtomicAlice-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Atomic Alice';
+    src: url('AtomicAlice-Regular.eot');
+    src: local('Atomic Alice Regular'), local('AtomicAlice-Regular'),
+        url('AtomicAlice-Regular.eot?#iefix') format('embedded-opentype'),
+        url('AtomicAlice-Regular.woff2') format('woff2'),
+        url('AtomicAlice-Regular.woff') format('woff'),
+        url('AtomicAlice-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Atomic Alice';
+    src: url('AtomicAlice-Light.eot');
+    src: local('Atomic Alice Light'), local('AtomicAlice-Light'),
+        url('AtomicAlice-Light.eot?#iefix') format('embedded-opentype'),
+        url('AtomicAlice-Light.woff2') format('woff2'),
+        url('AtomicAlice-Light.woff') format('woff'),
+        url('AtomicAlice-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Atomic Alice';
+    src: url('AtomicAlice-Thin.eot');
+    src: local('Atomic Alice Thin'), local('AtomicAlice-Thin'),
+        url('AtomicAlice-Thin.eot?#iefix') format('embedded-opentype'),
+        url('AtomicAlice-Thin.woff2') format('woff2'),
+        url('AtomicAlice-Thin.woff') format('woff'),
+        url('AtomicAlice-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
